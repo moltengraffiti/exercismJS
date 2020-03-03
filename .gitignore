@@ -8,6 +8,7 @@ npm-debug.log*
 # Dependancy directories
 node_modules/
 
+#Other
 babel.config.js
 .eslintrc
 .exercism/
