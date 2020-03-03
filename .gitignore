@@ -1,0 +1,13 @@
+
+
+#Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependancy directories
+node_modules/
+
+babel.config.js
+.eslintrc
+.exercism/
